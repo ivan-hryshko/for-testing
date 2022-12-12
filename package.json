@@ -21,5 +21,8 @@
   "homepage": "https://github.com/ivan-hryshko/for-testing#readme",
   "devDependencies": {
     "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "axios": "^1.2.1"
   }
 }
